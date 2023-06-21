@@ -29,8 +29,7 @@ Add Autocomplete options to the backend editor
 
 Extend the EXT:form configuration:
 
-..  code-block:: typoscript
-    :caption: EXT:my_sitepackage/Configuration/TypoScript/setup.typoscript
+EXT:my_sitepackage/Configuration/TypoScript/setup.typoscript::
 
     plugin.tx_form {
       settings {
@@ -44,8 +43,7 @@ Extend the EXT:form configuration:
 
 Redefine the backend input in the extended YAML:
 
-..  code-block:: yaml
-    :caption: EXT:my_sitepackage/Configuration/Form/CustomFormSetup.yaml
+EXT:my_sitepackage/Configuration/Form/CustomFormSetup.yaml::
 
     prototypes:
       standard:
