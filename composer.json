@@ -1,0 +1,59 @@
+{
+  "name": "linawolf/form-autocomplete",
+  "type": "typo3-cms-extension",
+  "description": "Offers the option to configure autocomplete properties for fields in the form backend editor.",
+  "keywords": [
+    "TYPO3 CMS",
+    "form",
+    "accessibility"
+  ],
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Lina Wolf",
+      "email": "112@linawolf.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "typo3/cms-backend": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-core": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-extbase": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-extensionmanager": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-fluid": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-frontend": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-install": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-form": "^11.5 || ^12.1 || 12.*.*@dev"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^3.0.0",
+    "typo3/cms-belog": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-felogin": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-filelist": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-info": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-lowlevel": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/cms-tstemplate": "^11.5 || ^12.1 || 12.*.*@dev",
+    "typo3/testing-framework": "^7.0.0 || ^8.0.0"
+  },
+  "config": {
+    "bin-dir": ".build/bin",
+    "optimize-autoloader": true,
+    "sort-packages": true,
+    "vendor-dir": ".build/vendor",
+    "allow-plugins": {
+      "typo3/class-alias-loader": true,
+      "typo3/cms-composer-installers": true
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "12.0.x-dev"
+    },
+    "typo3/cms": {
+      "extension-key": "form_autocomplete",
+      "web-dir": ".build/public"
+    }
+  },
+  "prefer-stable": true
+}
