@@ -1,120 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.label" resname="formEditor.elements.FormElement.editor.autocomplete.label" xml:space="preserve">
-        <source>Autocomplete</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.none" resname="formEditor.elements.FormElement.editor.autocomplete.option.none" xml:space="preserve">
-        <source>None</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.off" resname="formEditor.elements.FormElement.editor.autocomplete.option.off" xml:space="preserve">
-        <source>off - disable the autocomplete functionality</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.name" resname="formEditor.elements.FormElement.editor.autocomplete.option.name" xml:space="preserve">
-        <source>name - Full name</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.honorific-prefix" resname="formEditor.elements.FormElement.editor.autocomplete.option.honorific-prefix" xml:space="preserve">
-        <source>Prefix or title (e.g., "Mr.", "Ms.", "Dr.")</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.given-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.given-name" xml:space="preserve">
-        <source>given-name - first name</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.additional-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.additional-name" xml:space="preserve">
-        <source>additional-name - middle name</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.family-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.family-name" xml:space="preserve">
-        <source>family-name - last name</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.honorific-suffix" resname="formEditor.elements.FormElement.editor.autocomplete.option.honorific-suffix" xml:space="preserve">
-        <source>honorific-suffix - Name suffix (e.g., "Jr.", "II")</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.nickname" resname="formEditor.elements.FormElement.editor.autocomplete.option.nickname" xml:space="preserve">
-        <source>Nickname, screen name</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.organization-title" resname="formEditor.elements.FormElement.editor.autocomplete.option.organization-title" xml:space="preserve">
-        <source>organization-title - Job title</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.username" resname="formEditor.elements.FormElement.editor.autocomplete.option.username" xml:space="preserve">
-        <source>username</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.organization" resname="formEditor.elements.FormElement.editor.autocomplete.option.organization" xml:space="preserve">
-        <source>organization - Company name</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-line1" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-line1" xml:space="preserve">
-        <source>address-line1 - Street address, line 1</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-line2" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-line2" xml:space="preserve">
-        <source>address-line1 - Street address, line 2</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-level1" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-level1" xml:space="preserve">
-        <source>address-level1 - State, Canton etc</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-level2" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-level2" xml:space="preserve">
-        <source>address-level2 - City</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.country-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.country-name" xml:space="preserve">
-        <source>country-name</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.postal-code" resname="formEditor.elements.FormElement.editor.autocomplete.option.postal-code" xml:space="preserve">
-        <source>postal-code - ZIP</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel" xml:space="preserve">
-        <source>tel - Full telephone number</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.impp" resname="formEditor.elements.FormElement.editor.autocomplete.option.impp" xml:space="preserve">
-        <source>impp - URL representing an instant messaging protocol endpoint</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.sex" resname="formEditor.elements.FormElement.editor.autocomplete.option.sex" xml:space="preserve">
-        <source>sex - Gender identity</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.language" resname="formEditor.elements.FormElement.editor.autocomplete.option.language" xml:space="preserve">
-        <source>language - Preferred language</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.street-address" resname="formEditor.elements.FormElement.editor.autocomplete.option.street-address" xml:space="preserve">
-        <source>street-address</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-country-code" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-country-code" xml:space="preserve">
-        <source>tel-country-code - Country code component of the telephone number</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-national" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-national" xml:space="preserve">
-        <source>tel-national - Telephone number without the county code</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-area-code" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-area-code" xml:space="preserve">
-        <source>tel-area-code - Area code component of the telephone number</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-local" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-local" xml:space="preserve">
-        <source>tel-local - Telephone number without the country code and area code component</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-extension" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-extension" xml:space="preserve">
-        <source>tel-extension - Telephone number internal extension code</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.url" resname="formEditor.elements.FormElement.editor.autocomplete.option.url" xml:space="preserve">
-        <source>url - Home page</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.new-password" resname="formEditor.elements.FormElement.editor.autocomplete.option.new-password" xml:space="preserve">
-        <source>new-password - A new password to create / change</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.current-password" resname="formEditor.elements.FormElement.editor.autocomplete.option.current-password" xml:space="preserve">
-        <source>current-password - Current password for the selected username</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday-day" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday-day" xml:space="preserve">
-        <source>bday-day - Day component of birthday</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday-month" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday-month" xml:space="preserve">
-        <source>bday-month - Month component of birthday</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday-year" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday-year" xml:space="preserve">
-        <source>bday-year - Year component of birthday</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.photo" resname="formEditor.elements.FormElement.editor.autocomplete.option.photo" xml:space="preserve">
-        <source>photo</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.email" resname="formEditor.elements.FormElement.editor.autocomplete.option.email" xml:space="preserve">
-        <source>email</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday" xml:space="preserve">
-        <source>bday - Birthday</source>
-    </trans-unit>
-    <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.country" resname="formEditor.elements.FormElement.editor.autocomplete.option.country" xml:space="preserve">
-        <source>country - Country code</source>
-    </trans-unit>
+    <file source-language="en" datatype="plaintext" original="EXT:form_autocomplete/Resources/Private/Language/Database.xlf" product-name="form_autocomplete">
+        <header/>
+        <body>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.label" resname="formEditor.elements.FormElement.editor.autocomplete.label" xml:space="preserve">
+                <source>Autocomplete</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.none" resname="formEditor.elements.FormElement.editor.autocomplete.option.none" xml:space="preserve">
+                <source>None</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.off" resname="formEditor.elements.FormElement.editor.autocomplete.option.off" xml:space="preserve">
+                <source>off - disable the autocomplete functionality</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.name" resname="formEditor.elements.FormElement.editor.autocomplete.option.name" xml:space="preserve">
+                <source>name - Full name</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.honorific-prefix" resname="formEditor.elements.FormElement.editor.autocomplete.option.honorific-prefix" xml:space="preserve">
+                <source>Prefix or title (e.g., "Mr.", "Ms.", "Dr.")</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.given-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.given-name" xml:space="preserve">
+                <source>given-name - first name</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.additional-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.additional-name" xml:space="preserve">
+                <source>additional-name - middle name</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.family-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.family-name" xml:space="preserve">
+                <source>family-name - last name</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.honorific-suffix" resname="formEditor.elements.FormElement.editor.autocomplete.option.honorific-suffix" xml:space="preserve">
+                <source>honorific-suffix - Name suffix (e.g., "Jr.", "II")</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.nickname" resname="formEditor.elements.FormElement.editor.autocomplete.option.nickname" xml:space="preserve">
+                <source>Nickname, screen name</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.organization-title" resname="formEditor.elements.FormElement.editor.autocomplete.option.organization-title" xml:space="preserve">
+                <source>organization-title - Job title</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.username" resname="formEditor.elements.FormElement.editor.autocomplete.option.username" xml:space="preserve">
+                <source>username</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.organization" resname="formEditor.elements.FormElement.editor.autocomplete.option.organization" xml:space="preserve">
+                <source>organization - Company name</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-line1" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-line1" xml:space="preserve">
+                <source>address-line1 - Street address, line 1</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-line2" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-line2" xml:space="preserve">
+                <source>address-line1 - Street address, line 2</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-level1" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-level1" xml:space="preserve">
+                <source>address-level1 - State, Canton etc</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.address-level2" resname="formEditor.elements.FormElement.editor.autocomplete.option.address-level2" xml:space="preserve">
+                <source>address-level2 - City</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.country-name" resname="formEditor.elements.FormElement.editor.autocomplete.option.country-name" xml:space="preserve">
+                <source>country-name</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.postal-code" resname="formEditor.elements.FormElement.editor.autocomplete.option.postal-code" xml:space="preserve">
+                <source>postal-code - ZIP</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel" xml:space="preserve">
+                <source>tel - Full telephone number</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.impp" resname="formEditor.elements.FormElement.editor.autocomplete.option.impp" xml:space="preserve">
+                <source>impp - URL representing an instant messaging protocol endpoint</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.sex" resname="formEditor.elements.FormElement.editor.autocomplete.option.sex" xml:space="preserve">
+                <source>sex - Gender identity</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.language" resname="formEditor.elements.FormElement.editor.autocomplete.option.language" xml:space="preserve">
+                <source>language - Preferred language</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.street-address" resname="formEditor.elements.FormElement.editor.autocomplete.option.street-address" xml:space="preserve">
+                <source>street-address</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-country-code" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-country-code" xml:space="preserve">
+                <source>tel-country-code - Country code component of the telephone number</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-national" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-national" xml:space="preserve">
+                <source>tel-national - Telephone number without the county code</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-area-code" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-area-code" xml:space="preserve">
+                <source>tel-area-code - Area code component of the telephone number</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-local" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-local" xml:space="preserve">
+                <source>tel-local - Telephone number without the country code and area code component</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.tel-extension" resname="formEditor.elements.FormElement.editor.autocomplete.option.tel-extension" xml:space="preserve">
+                <source>tel-extension - Telephone number internal extension code</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.url" resname="formEditor.elements.FormElement.editor.autocomplete.option.url" xml:space="preserve">
+                <source>url - Home page</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.new-password" resname="formEditor.elements.FormElement.editor.autocomplete.option.new-password" xml:space="preserve">
+                <source>new-password - A new password to create / change</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.current-password" resname="formEditor.elements.FormElement.editor.autocomplete.option.current-password" xml:space="preserve">
+                <source>current-password - Current password for the selected username</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday-day" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday-day" xml:space="preserve">
+                <source>bday-day - Day component of birthday</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday-month" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday-month" xml:space="preserve">
+                <source>bday-month - Month component of birthday</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday-year" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday-year" xml:space="preserve">
+                <source>bday-year - Year component of birthday</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.photo" resname="formEditor.elements.FormElement.editor.autocomplete.option.photo" xml:space="preserve">
+                <source>photo</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.email" resname="formEditor.elements.FormElement.editor.autocomplete.option.email" xml:space="preserve">
+                <source>email</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.bday" resname="formEditor.elements.FormElement.editor.autocomplete.option.bday" xml:space="preserve">
+                <source>bday - Birthday</source>
+            </trans-unit>
+            <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.country" resname="formEditor.elements.FormElement.editor.autocomplete.option.country" xml:space="preserve">
+                <source>country - Country code</source>
+            </trans-unit>
+        </body>
+    </file>
 </xliff>
