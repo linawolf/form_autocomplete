@@ -115,4 +115,6 @@
         <source>bday - Birthday</source>
     </trans-unit>
     <trans-unit id="formEditor.elements.FormElement.editor.autocomplete.option.country" resname="formEditor.elements.FormElement.editor.autocomplete.option.country" xml:space="preserve">
+        <source>country - Country code</source>
+    </trans-unit>
 </xliff>
